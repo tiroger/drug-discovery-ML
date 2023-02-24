@@ -1,0 +1,6 @@
+Descriptor,Statistics,P-value,Interpretation
+pIC50,609.0,2.0560236485532194e-09,There is a significant difference between the two classes; reject the null hypothesis
+MW,203.5,0.04791772488514602,There is a significant difference between the two classes; reject the null hypothesis
+NumHDonors,293.5,0.8096531058717334,There is no significant difference between the two classes; fail to reject the null hypothesis
+NumHAcceptors,284.0,0.6783763282184958,There is no significant difference between the two classes; fail to reject the null hypothesis
+LogP,250.5,0.29279751495700856,There is no significant difference between the two classes; fail to reject the null hypothesis
